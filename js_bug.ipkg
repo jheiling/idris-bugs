@@ -1,0 +1,5 @@
+package js_bug
+
+executable = js_bug.js
+opts = "--codegen javascript"
+main = js_bug
